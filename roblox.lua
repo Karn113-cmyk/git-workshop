@@ -9,4 +9,4 @@ prompt.Triggered:Connect(function(player)
 		tool1.Parent = player.Backpack 
 
 	end
-end)
+end) ---qweqwe
